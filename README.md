@@ -1,7 +1,7 @@
 # mtcars_clustering_
 
 Creating by Nena Kosmidou
-## Code for creating a Cluster Dendogram
+## Written code for creating a Cluster Dendogram
 
 dat=mtcars
 pmatrix=scale(dat)
